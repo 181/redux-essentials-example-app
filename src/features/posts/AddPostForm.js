@@ -36,7 +36,7 @@ export const AddPostForm = () => {
                     value={title}
                     onChange={onTitleChanged}
                 />
-                <lable htmlFor="postContent">Content:</lable>
+                <label htmlFor="postContent">Content:</label>
                 <textarea 
                     id="postContent"
                     name="postContent"
