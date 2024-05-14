@@ -2,4 +2,4 @@
 
 You can also clone the same project from this Github repo. After cloning the repo, you can install the tools for the project with npm install, and start it with npm start.
 
-https://github.com/181/redux-essentials-example-app
+[GitHub - 181/redux-essentials-example-app at dojo](https://github.com/181/redux-essentials-example-app/tree/dojo)
